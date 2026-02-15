@@ -1,0 +1,12 @@
+[submodule "skills/docs-rag"]
+	path = skills/docs-rag
+	url = https://github.com/Charpup/openclaw-docs-rag.git
+[submodule "skills/task-workflow"]
+	path = skills/task-workflow
+	url = https://github.com/Charpup/openclaw-task-workflow.git
+[submodule "skills/config-validator"]
+	path = skills/config-validator
+	url = https://github.com/Charpup/openclaw-config-validator.git
+[submodule "skills/tdd-sdd-development"]
+	path = skills/tdd-sdd-development
+	url = https://github.com/Charpup/openclaw-tdd-sdd-skill.git
